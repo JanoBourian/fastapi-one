@@ -10,6 +10,7 @@ First Fastapi course about basic knowledges
 
 ## Implementations
 - route + /docs
+- route + /redoc
 
 ## requirements.txt
 
