@@ -12,6 +12,11 @@ First Fastapi course about basic knowledges
 - route + /docs
 - route + /redoc
 
+## Topics
+
+### GET method
+    - path parameters
+
 ## requirements.txt
 
 - pip install fastapi
