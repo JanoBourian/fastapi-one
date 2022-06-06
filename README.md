@@ -17,7 +17,8 @@ First Fastapi course about basic knowledges
 ### GET method
     - path parameters
     - enum for predefined path
-    
+    - query parameters
+
 ## requirements.txt
 
 - pip install fastapi
