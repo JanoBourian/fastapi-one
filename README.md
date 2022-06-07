@@ -19,6 +19,12 @@ First Fastapi course about basic knowledges
     - enum for predefined path
     - query parameters
 
+### Operation description
+    - status code
+    - tags
+    - summary and description
+    - response description
+
 ## requirements.txt
 
 - pip install fastapi
